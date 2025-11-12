@@ -24,11 +24,11 @@ The pinout layout is widely used across different vendors of breakout boards wit
 
 ![WSEN-TIDS Breakout Board Front](/docs/wsen-tids-breakout-board-pcb-01-front.png)
 
-![WSEN-TIDS Breakout Board Front](/docs/wsen-tids-breakout-board-02-front.png)
+![WSEN-TIDS Breakout Board Front](/docs/wsen-tids-breakout-board-pcb-02-front.png)
 
-![WSEN-TIDS Breakout Board Front](/docs/wsen-tids-breakout-board-01-back.png)
+![WSEN-TIDS Breakout Board Front](/docs/wsen-tids-breakout-board-pcb-01-back.png)
 
-![WSEN-TIDS Breakout Board Front](/docs/wsen-tids-breakout-board-02-back.png)
+![WSEN-TIDS Breakout Board Front](/docs/wsen-tids-breakout-board-pcb-02-back.png)
 
 # Additional resources
 [Official WSEN-TIDS Product Page (Würth Elektronik Website)](https://www.we-online.com/de/components/products/WSEN-TIDS)
