@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "JST")(type "KiCad")(uri "${KIPRJMOD}/../libs/footprints/JST")(options "")(descr ""))
+  (lib (name "Sensor_SMD_Wurth")(type "KiCad")(uri "${KIPRJMOD}/../libs/footprints/Sensor_SMD_Wurth.pretty")(options "")(descr ""))
+)

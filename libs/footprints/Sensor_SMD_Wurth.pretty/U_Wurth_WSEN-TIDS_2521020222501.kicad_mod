@@ -1,0 +1,250 @@
+(footprint "U_Wurth_WSEN-TIDS_2521020222501"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Temperature Sensor IC & EV-Kits, body 2x2x0.55mm, https://www.we-online.com/en/components/products/datasheet/2521020222501?ki")
+	(tags "SMT")
+	(property "Reference" "REF**"
+		(at 0 -2.25 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "1e218825-83cf-4a3e-af17-23acf82b5541")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "U_Wurth_WSEN-TIDS_2521020222501"
+		(at 0 2.25 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2998aa15-063c-43fa-97f5-8eb10a0c217e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ec2408b9-6b64-4520-8ed2-c02202138003")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8363d552-a91b-4085-bb00-6a755e81579d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.575 -0.785)
+		(end -1.575 -0.515)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6d5b8dc5-12be-4042-b69f-18b2293bb275")
+	)
+	(fp_line
+		(start -1.11 -1.11)
+		(end -1.11 -1.045)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "abdf6f8d-a8c9-4347-b3d9-9d14a61a24e6")
+	)
+	(fp_line
+		(start -1.11 -1.11)
+		(end 1.11 -1.11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "345aec04-8dc5-4b24-96dd-286018906f56")
+	)
+	(fp_line
+		(start -1.11 1.11)
+		(end -1.11 1.045)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ef3a57fd-f4e3-458e-b20e-1200e1ead7e1")
+	)
+	(fp_line
+		(start -1.11 1.11)
+		(end 1.11 1.11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ccdac1bd-b05c-414d-933f-1cf9f171e89a")
+	)
+	(fp_line
+		(start 1.11 -1.11)
+		(end 1.11 -1.045)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7b358e0c-e2b9-4e75-8250-688f51661777")
+	)
+	(fp_line
+		(start 1.11 1.11)
+		(end 1.11 1.045)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "95e13cd2-173f-4c17-9f94-55603c0936be")
+	)
+	(fp_rect
+		(start -1.49 -1.25)
+		(end 1.49 1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "a53273f7-d0ce-4e9e-b590-06db0f6433c5")
+	)
+	(fp_line
+		(start -1 -0.785)
+		(end -0.838 -0.65)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0c183431-500c-4883-8290-97b81570636c")
+	)
+	(fp_line
+		(start -1 -0.515)
+		(end -0.838 -0.65)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3cf2c5c9-6c40-4538-ae84-108d8704fe67")
+	)
+	(fp_rect
+		(start -1 -1)
+		(end 1 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "326c7054-c74b-4de0-8825-020390161666")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "330f7dd6-2c4a-4f59-b5be-3c54da784e1c")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(pad "" smd roundrect
+		(at 0 0)
+		(size 0.65 1.45)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0)
+		(chamfer_ratio 0.2)
+		(chamfer top_left)
+		(uuid "ebaf9e05-790d-4a3d-b48a-42be0ba68526")
+	)
+	(pad "1" smd rect
+		(at -0.89 -0.65)
+		(size 0.7 0.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c6909a90-ef38-460c-a74a-8de94d5ac5c1")
+	)
+	(pad "2" smd rect
+		(at -0.89 0)
+		(size 0.7 0.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3cae54a8-b588-4154-94a7-31ac2d221a27")
+	)
+	(pad "3" smd rect
+		(at -0.89 0.65)
+		(size 0.7 0.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6dacb668-34d0-4089-99cc-c841e02b08bf")
+	)
+	(pad "4" smd rect
+		(at 0.89 0.65)
+		(size 0.7 0.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "433259c3-c8c3-4449-88ae-b2c2e2495527")
+	)
+	(pad "5" smd rect
+		(at 0.89 0)
+		(size 0.7 0.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "de2f1563-5971-4465-947a-1b59e5db37bc")
+	)
+	(pad "6" smd rect
+		(at 0.89 -0.65)
+		(size 0.7 0.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b028b3b6-4e3f-4bc2-bfc7-14427839e33b")
+	)
+	(embedded_fonts no)
+	(model "${WE_3DMODEL_DIR}/Sensor_SMD_Wurth.3dshapes/U_Wurth_WSEN-TIDS_2521020222501.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/../libs/3dmodels/Sensor_SMD_Wurth.3dshapes/U_Wurth_WSEN-TIDS_2521020222501.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
