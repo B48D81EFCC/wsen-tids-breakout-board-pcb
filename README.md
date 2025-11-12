@@ -1,15 +1,9 @@
-# BH1900NUX Breakout Board
-*KiCad project files for a breakout board using the Rohm Semiconductor BH1900NUX temperature sensor.*
+# Würth Elektronik WSEN-TIDS Breakout Board PCB
+*KiCad project files for a breakout board using the Würth Elektronik WSEN-TIDS temperature sensor.*
 
 ## Overview
-The BH1900NUX breakout board simplifies integration of the **BH1900NUX sensor** into your projects.  
+The breakout board simplifies integration of the **WSEN-TIDS temperature sensor** into your projects.  
 The main goal of this PCB is to fit into stainless steel sleeve of around 5mm diameter.  
-
-### Features
--  **A1 pin** Supported (solder jumper on the back)
-- **A2 pin** Supported (solder jumper on the back)
-- **A3 pin** Supported (solder jumper on the back)
-- **ALERT pin** NOT supported (Pin is not exposed on the PCB)
 
 ### JST SH connector pinout
 
@@ -28,17 +22,13 @@ The pinout layout is widely used across different vendors of breakout boards wit
 
 ---
 
-![BH1900NUX Breakout Board Front](/docs/BH1900NUX-pcb-01-front.png)
-*Figure: BH1900NUX sensor breakout board front view (Rohm Semiconductor)*
+![BH1900NUX Breakout Board Front](/docs/wsen-tids-breakout-board-pcb-01-front.png)
 
-![BH1900NUX Breakout Board Front](/docs/BH1900NUX-pcb-02-front.png)
-*Figure: BH1900NUX sensor breakout board front view (Rohm Semiconductor)*
+![BH1900NUX Breakout Board Front](/docs/wsen-tids-breakout-board-02-front.png)
 
-![BH1900NUX Breakout Board Front](/docs/BH1900NUX-pcb-01-back.png)
-*Figure: BH1900NUX sensor breakout board back view (Rohm Semiconductor)*
+![BH1900NUX Breakout Board Front](/docs/wsen-tids-breakout-board-01-back.png)
 
-![BH1900NUX Breakout Board Front](/docs/BH1900NUX-pcb-02-back.png)
-*Figure: BH1900NUX sensor breakout board back view (Rohm Semiconductor)*
+![BH1900NUX Breakout Board Front](/docs/wsen-tids-breakout-board-02-back.png)
 
 # Additional resources
-[Official BH1900NUX Product Page (ROHM Website)](https://www.rohm.com/products/sensors-mems/temperature-sensor-ics/bh1900nux-product)
+[Official WSEN-TIDS Product Page (Würth Elektronik Website)](https://www.we-online.com/de/components/products/WSEN-TIDS)
